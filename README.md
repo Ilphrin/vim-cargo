@@ -12,6 +12,7 @@ Simple vim command bindings to quickly run cargo stuff from vim.
 * CargoRun
 * CargoTest
 * CargoUpdate
+* CargoRelease
 
 ## Usage
 
